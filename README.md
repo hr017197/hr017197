@@ -25,6 +25,10 @@ I am a Software Engineer working in the Atlanta Metropolitan area.
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>
 </div>
 
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hr017197&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hr017197&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
