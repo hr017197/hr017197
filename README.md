@@ -1,14 +1,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Software Engineer working in the Atlanta Metropolitan area.
+- :telescope: I’m a recent Utah Valley University graduate with a Bachelor's degree in Software Engineering. Currently, I am working towards getting my first full-time position.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am passionate about teaching computer science to others and increasing my knowledge in this field!
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I build out new projects and solve leet code problems.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-reader-36643b17b/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-reader-36643b17b/)
 
 - 
 <div id="badges">
